@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naman Jain
 - 👀 I’m interested in technology, programming, experimenting with things by making or breaking them.
-- 🌱 I’m currently learning Data Structure and Android Development.
+- 🌱 I’m currently working on my Android Development Skills.
 - 💞️ I’m looking to collaborate on java projects and android projects
 - 📫 How to reach me worknj15@gmail.com
 

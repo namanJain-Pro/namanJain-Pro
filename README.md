@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 <h3 align="center">A native android developer in Java/Kotlin</h3>
 
-<p align="center"> <a href="https://app.daily.dev/dev_naman"><img src="https://api.daily.dev/devcards/79b446d1ebb94a28a3b794519540020c.png?r=yph" width="400" alt="Naman Jain's Dev Card"/></a> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjain-pro&theme=dracula" alt="namanjain-pro" /></a> </p>
 
 - 🔭 I’m currently working in Solvative
